@@ -1,0 +1,26 @@
+Curso Git 
+
+O que faz? -Versionamento de Codigo
+
+Descrião: Curso realizando versionamento de codigo no git
+
+git init  - criar novo repositorio (git init --bare, repositorio que so contem as alterações) 
+git add  (arquivo.extenção (ou git add . - Todos os Arquivos) )
+git status verifica o status do arquivo
+git commit -m "MENSAGEM DO COMMIT"
+git log - Verifica os Commits (git log -p  identifica o que foi alterado) (git log --oneline(verifca em uma linha as alteracoes em uma linha) 
+gir remote (Mostra os Diretorios)
+git remote add (Adicionar nome e diretorio remoto, para enviar os ccodigos e ter o controle deles)
+git remote -v (Mostra o Local do Diretorio)
+git remote rename nomeAnterio novoNome (Alterando nome do direitorio)
+git clone (clonar todos os dados de um repositorio remoto para o local)
+git push local master (Enviar os dados para o Diretorio chamado(LOCAL) da Minha Branch MASTER)
+git pull origin master ( Trazer os dados para Diretorio( origin) da branch master)
+git branch (Criar uma nova branch)
+git checkout (Altera a branch que está)
+git checkout -b  +"nome da nova branch"(atalho para criar uma nova branch e alterar para ela)
+git merge master (levar tudo da outra branch par a master)
+
+
+.gitignore(identificar os arquivos que podem ser ignorados pelo git)
+
