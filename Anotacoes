@@ -21,6 +21,7 @@ git checkout (Altera a branch que está)
 git checkout -b  +"nome da nova branch"(atalho para criar uma nova branch e alterar para ela)
 git merge master (levar tudo da outra branch par a master)
 
+.teste desenvolvedor branch
 
 
 .gitignore(identificar os arquivos que podem ser ignorados pelo git)
