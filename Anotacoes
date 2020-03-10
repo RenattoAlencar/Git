@@ -22,5 +22,6 @@ git checkout -b  +"nome da nova branch"(atalho para criar uma nova branch e alte
 git merge master (levar tudo da outra branch par a master)
 
 
+
 .gitignore(identificar os arquivos que podem ser ignorados pelo git)
 
